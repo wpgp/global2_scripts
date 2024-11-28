@@ -7,7 +7,6 @@ Data type: 8 bit unsigned integer GeoTiff
 No Data Value: 255 as per metadata, in practice there are no noData pixels
 SRS: EPSG:4326 (WGS84)
 
-ESA CCI Landcover datasets were processed Dorothea Woods (Jan/Feb 2023). Associated code is based on 
 
 Ouput file names (examples from 2016-2022 files): 
 
