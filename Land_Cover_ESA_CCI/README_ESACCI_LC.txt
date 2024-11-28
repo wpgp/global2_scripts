@@ -1,9 +1,13 @@
-Dataset: ESA CCI Landcover (annual datasets v.2.0.7 for years 2000-2015 and v2.1.1 for years 2016-2022) ~ Created by Dorothea Woods (Jan/Feb 2023)
+Scripts modified by Dorothea Woods (Jan/Feb 2023). Original scripts: Lloyd, C. T., Chamberlain, H., Kerr, D., & Bondarenko, M. (2018). Global Spatio-temporally Harmonised Datasets for Producing High-resolution Population Denominators. doi: 10.6084/m9.figshare.7291250.v1
+
+Dataset: ESA CCI Landcover (annual datasets v.2.0.7 for years 2000-2015 and v2.1.1 for years 2016-2022) ~ 
 Target Extent: Lower Left (-180, -60.99999942); Upper Right (179.999999856,  84)
 Target Resolution: 0.00083333333 x 0.00083333333 (approximately 100m at the Equator)
 Data type: 8 bit unsigned integer GeoTiff
 No Data Value: 255 as per metadata, in practice there are no noData pixels
 SRS: EPSG:4326 (WGS84)
+
+ESA CCI Landcover datasets were processed Dorothea Woods (Jan/Feb 2023). Associated code is based on 
 
 Ouput file names (examples from 2016-2022 files): 
 
