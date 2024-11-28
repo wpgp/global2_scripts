@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/838386458.svg)](https://doi.org/10.5281/zenodo.14236239)
 # Spatio-temporal harmonisation of global covariates
 The code provided here was used to support the production of a global collection of spatio-temporally harmonised covariates as part of the WorldPop Global Demographic Data project and is associated with the paper ‘Global gridded multi-temporal datasets to support human population distribution modelling’ (link to follow).
 
